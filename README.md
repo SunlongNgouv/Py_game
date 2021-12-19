@@ -1,7 +1,21 @@
-# Py_game
+# Py Game
 
-This is "Kitchen Contest" game constructed in Python programming language and holding purpose of practising basic Python code, including DataFrame, aggregation functions, loops, and user-defined function, and student's creativity.
+## Introduction
+This is a *python game*, called **Kitchen Contest**, mainly about test your general knowledge regarding food recognition and how to prepare them. The Game consists of four stages:
+1. Warm-up
+2. Multiple choices with images
+3. Multiple choice with words
+4. IQ Questions
 
-In order to run this game, user should:
-1. upload .ipynb file and all images to Jupyter Notebook
-2. click on 'run' the file
+
+## Python libraries being used:
+* Pandas
+* Aggregation functions
+* Loops
+* User-defined functions
+
+## How to play the Py Game
+To run this game, users should:
+1. Read **map** file to understand rules and stages of the game 
+2. upload python **.ipynb** and **image** files to local Jupyter Notebook repository
+3. click on **.ipynb** file to run the game
