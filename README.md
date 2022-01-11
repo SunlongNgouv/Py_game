@@ -1,16 +1,18 @@
 # Py Game
 
 ## Introduction
-This is a *python game*, called **Kitchen Contest**, mainly testing one's general knowledge regarding various foods recognition and how to prepare them. The game consists of four stages:
+This is a python generated game (so-called py_game), and I gave it's name as **Kitchen Contest**. The game is used to test out one's related to foods recognition and how they are prepared. 
+
+The game consists of four stages:
 1. Warm-up
 2. Multiple choices with images
 3. Multiple choice with words
 4. IQ Questions
 
 
-## Python libraries being used:
+## Python libraries being used in the game:
 * Pandas
-* Aggregation functions
+* Aggregation function
 * Loops
 * User-defined functions
 
